@@ -1,0 +1,57 @@
+body {
+  background-image: url();
+}
+.sidebar {
+  margin-top: 2;
+}
+
+.col-md-2 {
+  background: dark;
+}
+
+.navbar2 {
+  columns: flex;
+  margin-bottom: 5rem;
+  margin-left: 1rem;
+  padding-top: 5rem;
+}
+
+.nav-link:hover {
+  background: #b6b900;
+}
+
+.nav-item2 {
+  text-shadow: white;
+}
+
+.col-md-10 {
+  padding-top: 8rem;
+  padding-left: 1rem;
+}
+
+#Profile {
+  padding-top: 8rem;
+}
+
+section {
+  padding-top: 8rem;
+}
+
+#Visi,
+#Kontak,
+#Sosial {
+  background-color: #fff300;
+}
+
+.Galeri-img {
+  width: 100%;
+}
+
+#Galeri .row > * {
+  padding: 0;
+  margin: 0;
+}
+
+#Sosial {
+  justify-content: center;
+}
